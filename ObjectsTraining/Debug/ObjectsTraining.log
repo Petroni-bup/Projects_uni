@@ -1,0 +1,5 @@
+﻿  OOP.cpp
+C:\Su\Predmeti\oop\ObjectsTraining\ObjectsTraining\OOP.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Su\Predmeti\oop\ObjectsTraining\ObjectsTraining\OOP.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+C:\Su\Predmeti\oop\ObjectsTraining\ObjectsTraining\OOP.cpp(86,21): warning C4018: '<': signed/unsigned mismatch
+  ObjectsTraining.vcxproj -> C:\Su\Predmeti\oop\ObjectsTraining\Debug\ObjectsTraining.exe
